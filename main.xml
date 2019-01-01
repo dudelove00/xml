@@ -14,19 +14,19 @@
   
   <dir>
     <title>Movies</title>
-    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/movies.xml</link>
+    <link>https://raw.githubusercontent.com/dudelove00/xml/master/movies.xml</link>
     <thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>TV</title>
-    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/tv.xml</link>
+    <link>https://raw.githubusercontent.com/dudelove00/xml/master/tv.xml</link>
     <thumbnail></thumbnail>
   </dir>
     
   <dir>
     <title>Aussie Live TV</title>
-    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Aussie%20Live%20TV.xml</link>
+    <link>https://raw.githubusercontent.com/dudelove00/xml/master/Aussie%20Live%20TV.xml</link>
     <thumbnail></thumbnail>
   </dir>
 	
