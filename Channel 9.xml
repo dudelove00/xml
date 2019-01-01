@@ -1,0 +1,28 @@
+<xml>
+<item>
+   <title>Channel 9</title>
+   <link>https://9nowch9livehls-i.akamaihd.net/hls/live/250960-b/adelaide/master.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200421.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>9Life</title>
+   <link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250990/adelaide/master.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200424.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>9Gem</title>
+   <link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250970/adelaide/master.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200427.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>9Go!</title>
+   <link>https://9nowgolivehls-i.akamaihd.net/hls/live/250975/adelaide/master.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200428.png</thumbnail>
+   <fanart></fanart>
+</item>

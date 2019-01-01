@@ -1,0 +1,31 @@
+<xml>
+<item>
+   <title>Channel 7</title>
+   <link>https://live-sevennetwork.akamaized.net/hls/live/573765/ADE1/master.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020520.png</thumbnail>
+</item>
+
+<item>
+   <title>7Two</title>
+   <link>https://live-sevennetwork.akamaized.net/hls/live/573766/ADE2/master.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png</thumbnail>
+</item>
+
+<item>
+   <title>7Mate</title>
+   <link>https://live-sevennetwork.akamaized.net/hls/live/573767/ADE3/master.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020523.png</thumbnail>
+</item>
+
+<item>
+   <title>7Flix</title>
+   <link>https://live-sevennetwork.akamaized.net/hls/live/573768/ADE6/master.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020525.png</thumbnail>
+</item>
+
+<item>
+   <title>7Food Network</title>
+   <link>https://csm-e.tls1.yospace.com/csm/extlive/sevenprd01,7food-030.m3u8</link>
+   <thumbnail>https://i0.wp.com/tvtonight.com.au/wp-content/uploads/2018-10-25_2346.png</thumbnail>
+   <fanart></fanart>
+</item>

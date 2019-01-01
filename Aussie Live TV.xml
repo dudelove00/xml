@@ -1,0 +1,35 @@
+<xml>
+  <dir>
+    <title>Aussie Sport</title>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Aussie%20Sport.xml</link>
+  </dir>
+
+    <dir>
+    <title>Channel 7</title>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Channel%207.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020520.png</thumbnail>
+  </dir>
+  
+  <dir>
+    <title>Channel 9</title>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Channel%209.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200421.png</thumbnail>
+  </dir>  
+  
+  <dir>
+    <title>Channel Ten</title>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Channel%20Ten.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png</thumbnail>
+  </dir>
+
+  <dir>
+    <title>Government TV</title>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Government%20TV.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png</thumbnail>
+  </dir>
+
+  <dir>
+    <title>Random TV</title>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Random%20TV.xml</link>
+	<thumbnail></thumbnail>
+  </dir>

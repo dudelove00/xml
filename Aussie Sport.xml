@@ -1,0 +1,55 @@
+<xml>
+<item>
+   <title>Sky Racing</title>
+   <link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8</link>
+   <thumbnail>ttps://vignette4.wikia.nocookie.net/logopedia/images/a/a3/Sky_Racing.png/revision/latest?cb=20111111210723</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>Sky Racing 2</title>
+   <link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8</link>
+   <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SR2/sky-racing-2-colour.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>Thoroughbred Central</title>
+   <link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8</link>
+   <thumbnail>http://www.skyracing.com.au/images/channel_img/thoroughbred_preview.jpg</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>Racing.com</title>
+   <link>https://live-sevennetwork.akamaized.net/hls/live/573753/RAC/master.m3u8</link>
+   <thumbnail>https://1vq6mt4fkiyf3k4lv63b9l9o-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/racingcomlogo630x368.jpg</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>Fox Sports News</title>
+   <link>https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8</link>
+   <thumbnail>https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>VSIN 1080p</title>
+   <link>https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8</link>
+   <thumbnail>https://sxmfeed.files.wordpress.com/2017/02/vsin-logo-800-on-white.jpg?w=800</thumbnail>
+</item>
+
+<item>
+   <title>MLB Network</title>
+   <link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
+   <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1024px-MLBNetworkLogo.svg.png</thumbnail>
+   <fanart>http://m.mlb.com/sections/network/images/mlb-network-about.jpg</fanart>
+</item>
+
+<item>
+   <title>REV'N</title>
+   <link>http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8</link>
+   <thumbnail>http://v8tvshow.com/V8TV_2/images2/images/RevnBrushed.png</thumbnail>
+</item>
+

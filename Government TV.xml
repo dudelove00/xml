@@ -1,0 +1,26 @@
+<xml>
+<item>
+   <title>SBS One</title>
+   <link>http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>SBS Viceland</title>
+   <link>http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000302.png</thumbnail>
+</item>
+
+<item>
+   <title>ABC News</title>
+   <link>https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png</thumbnail>
+</item>
+
+<item>
+   <title>Adelaide C44 Community</title>
+   <link>https://bdz47wk-lh.akamaihd.net/i/bdz47wk6avrot1_1@683133/master.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png</thumbnail>
+</item>
+

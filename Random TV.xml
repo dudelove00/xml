@@ -1,0 +1,23 @@
+<xml>
+<item>
+   <title>The Country Network - USA Network</title>
+   <link>https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8</link>
+   <thumbnail>https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png</thumbnail>
+</item>
+
+<item>
+   <title>The Outdoor Cooking Channel</title>
+   <link>http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w996888467_b1006700.m3u8</link>
+   <thumbnail>http://www.outdoorcookingchannel.com/wp-content/uploads/2011/12/christmas.jpg</thumbnail>
+   <fanart>https://wallpapercave.com/wp/wp3617903.jpg</fanart>
+</item>
+
+
+
+<item>
+   <title>Sony Movies</title>
+   <link>http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8</link>
+   <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest?cb=20170110112428</thumbnail>
+   <fanart>https://cdn.uploadvr.com/wp-content/uploads/2016/11/ghostbusters-sony-pictures-1024x640.jpg</fanart>
+</item>
+

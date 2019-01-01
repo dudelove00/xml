@@ -1,0 +1,19 @@
+<xml>
+<item>
+   <title>TEN</title>
+   <link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDADS.m3u8</link>
+   <thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>Ten Peach</title>
+   <link>http://yospace-cdn.networkten.com.au/video/sd2ads/master.m3u8</link>
+   <thumbnail>https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwje7frJxo3fAhVLTn0KHbeCCrYQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F10_Peach&psig=AOvVaw19K9ze6He7qPt1jAjCK_eH&ust=1544266346670925</thumbnail>
+</item>
+
+<item>
+   <title>TEN Boss</title>
+   <link>http://yospace-cdn.networkten.com.au/video/oneads/master.m3u8</link>
+   <thumbnail>https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjMzKSdxo3fAhVBfSsKHeLuAEIQjRx6BAgBEAU&url=https%3A%2F%2Fmediaweek.com.au%2F10-upfront-behind-the-rebrand%2F&psig=AOvVaw1ELosXInUdZRe7SpHKeAJo&ust=1544266253000028</thumbnail>
+</item>
